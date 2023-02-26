@@ -10,5 +10,5 @@
   
   console.log(startsWithA("Akshita"))
   // true
-  console.log(startsWithA("Aeena"))
+  console.log(startsWithA("eena"))
   // false
